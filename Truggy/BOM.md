@@ -22,15 +22,18 @@
  * (26) M3 Hexagon Nut ISO 4032 - [Amazon Source](http://www.amazon.com/dp/B000FN0CP0/ref=biss_dp_t_asn)
  
 ### Bearings
- * (10) 10x15x4 - [Amazon Supply Source](http://www.amazonsupply.com/s/ref=sp_search?guess=true&Action=submit&keywords=10x15x4+bearing)
- * (8) 3x10x4 - [Amazon Supply Source](http://www.amazonsupply.com/s/ref=sp_search?guess=true&Action=submit&keywords=3x10x4+bearing)
- * (4) 6x12x4 - [Amazon Supply Source](http://www.amazonsupply.com/s/ref=sp_search?guess=true&Action=submit&keywords=6x12x4+bearing)
+ * (10) 10x15x4 - [Amazon Supply Source](http://www.amazonsupply.com/s/ref=sp_search?guess=true&Action=submit&keywords=10x15x4+bearing), also known as 6700 zz (when shielded) or 6700 2rs (when sealed)
+ * (8) 5x10x4 - [Amazon Supply Source](http://www.amazonsupply.com/s/ref=sp_search?guess=true&Action=submit&keywords=5x10x4+bearing), also known as MR105 ZZ (when shielded) or MR105 2RS (when sealed)
+ * (4) 6x12x4 - [Amazon Supply Source](http://www.amazonsupply.com/s/ref=sp_search?guess=true&Action=submit&keywords=6x12x4+bearing), also known as MR126 ZZ (when shielded) or MR126 2RS (when sealed)
 
 ### Rods
  * (4) Ø2.0 x 32mm
- * (3) Ø3.0 x 18mm
+ * (3) Ø3.0 x 18mm (for the differentials)
  * (4) Ø3.0 x 56mm
  * Optional: Ø2.0 x 10mm for internal driveshafts
+
+### Ball Head Screws
+ * (5 or 6) 5mm Ball Head Screws such as HSP 02038
  
 ### Drivetrain
  * (4) Outer Driveshafts - CVD 1:10 118MM (See sources)
@@ -82,3 +85,4 @@ Standard 2 Channel Transmitter and Receiver (Radio System)
  
 ### CVD Shafts
  * [Conrad](http://www.conrad.com/ce/en/product/231121/)
+
