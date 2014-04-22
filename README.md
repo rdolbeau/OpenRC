@@ -1,5 +1,7 @@
 ![OpenRC Logo](https://github.com/bryancostanich/OpenRC/raw/master/Logo_Small.png)
 
+This if a fork of https://github.com/bryancostanich/OpenRC, where I can add some notes from my experience building the OpenRC truggy designed by Daniel Noree (see https://plus.google.com/communities/112745535856143176146).
+
 Repo for the OpenRC Printable Radio Controlled Vehicles Project. Contains printable parts, instructions, and parts sourcing info. Based on the [Google Group here](https://plus.google.com/communities/112745535856143176146)
 
 # [General RC Information](https://github.com/bryancostanich/OpenRC/blob/master/RCInfo.md)
