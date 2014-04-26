@@ -16,7 +16,7 @@
  * 4 more Countersunk Head Screw M3x8 are required, two to add the upper part to the columns, and two more for the horizontal bar
 
 ## Front differential
- * There's a helpful document to assemble the differential itself under "Components/Differential/Documentation/OpenRC Differential Assembly.pdf"
+ * There's a helpful document to assemble the differential itself under "Components/Differential/Documentation/OpenRC Differential Assembly.pdf" (and the video linked above)
  * First you need to put in the central drive shaft joint & input gear. The pair is assembled by a Pan Head Cap Screw M3x12, and rotates inside a pair of 10x15x4 bearings
  * Then you can put the differential itself in (it also has a pair of 10x15x4 bearings)
  * Use 2 Countersunk Head Screw M3x12 to assemble the horizontal bar at the bottom front

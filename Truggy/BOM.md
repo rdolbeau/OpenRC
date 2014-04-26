@@ -3,6 +3,7 @@
 ## Hardware
 
 ### Screws
+ * (2) Hexagon Socket Countersunk Head Screw ISO 10642 - M3 � 6 (front and back differential assembly)
  * (54) Hexagon Socket Countersunk Head Screw ISO 10642 - M3 × 8 
  * (8) Hexagon Socket Countersunk Head Screw ISO 10642 - M3 × 12
  * (4) Hexagon Socket Countersunk Head Screw ISO 10642 - M3 × 16
