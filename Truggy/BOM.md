@@ -3,15 +3,15 @@
 ## Hardware
 
 ### Screws
- * (2) Hexagon Socket Countersunk Head Screw ISO 10642 - M3 � 6 (front and back differential assembly)
- * (54) Hexagon Socket Countersunk Head Screw ISO 10642 - M3 × 8 
- * (8) Hexagon Socket Countersunk Head Screw ISO 10642 - M3 × 12
- * (4) Hexagon Socket Countersunk Head Screw ISO 10642 - M3 × 16
- * (10) Hexagon Socket Pan Head Cap Screw ISO 7380 - M3 × 8
- * (10) Hexagon Socket Pan Head Cap Screw ISO 7380 - M3 × 10
- * (12) Hexagon Socket Pan Head Cap Screw ISO 7380 - M3 × 12
- * (4) Hexagon Socket Pan Head Cap Screw ISO 7380 - M3 × 14
- * (4) Hexagon Socket Pan Head Cap Screw ISO 7380 - M3 × 16
+ * (2) Hexagon Socket Countersunk Head Screw ISO 10642 - M3 x 6 (front and back differential assembly)
+ * (54) Hexagon Socket Countersunk Head Screw ISO 10642 - M3 x 8 
+ * (8) Hexagon Socket Countersunk Head Screw ISO 10642 - M3 x 12
+ * (4) Hexagon Socket Countersunk Head Screw ISO 10642 - M3 x 16
+ * (10) Hexagon Socket Pan Head Cap Screw ISO 7380 - M3 x 8
+ * (10) Hexagon Socket Pan Head Cap Screw ISO 7380 - M3 x 10
+ * (12) Hexagon Socket Pan Head Cap Screw ISO 7380 - M3 x 12
+ * (4) Hexagon Socket Pan Head Cap Screw ISO 7380 - M3 x 14
+ * (4) Hexagon Socket Pan Head Cap Screw ISO 7380 - M3 x 16
  
 #### Screw Sources
 
@@ -28,10 +28,10 @@
  * (4) 6x12x4 - [Amazon Supply Source](http://www.amazonsupply.com/s/ref=sp_search?guess=true&Action=submit&keywords=6x12x4+bearing), also known as MR126 ZZ (when shielded) or MR126 2RS (when sealed)
 
 ### Rods
- * (4) Ø2.0 x 32mm
- * (3) Ø3.0 x 18mm (for the differentials)
- * (4) Ø3.0 x 56mm
- * Optional: Ø2.0 x 10mm for internal driveshafts
+ * (4) Diam 2.0 x 32mm
+ * (3) Diam 3.0 x 18mm (for the differentials)
+ * (4) Diam 3.0 x 56mm (for the wishbones)
+ * Optional: Diam 2.0 x 10mm for internal driveshafts
 
 ### Ball Head Screws
  * (5 or 6) 5mm Ball Head Screws such as HSP 02038

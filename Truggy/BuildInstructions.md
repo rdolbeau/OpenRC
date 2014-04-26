@@ -19,6 +19,6 @@
  * There's a helpful document to assemble the differential itself under "Components/Differential/Documentation/OpenRC Differential Assembly.pdf" (and the video linked above)
  * First you need to put in the central drive shaft joint & input gear. The pair is assembled by a Pan Head Cap Screw M3x12, and rotates inside a pair of 10x15x4 bearings
  * Then you can put the differential itself in (it also has a pair of 10x15x4 bearings)
- * Use 2 Countersunk Head Screw M3x12 to assemble the horizontal bar at the bottom front
+ * Use 2 Countersunk Head Screw M3x12 to assemble the horizontal bar at the bottom front, beware, the front wishbone and their pins must be put in at this point
  * Use 2 Pan Head Screw M3x16 a the top to assemble the second part of the housing, plus 2 Hexagon Nut M3. Note that you also need assemble the front shock tower at this point, and it has a front and a back so beware
  * Use a Countersunk Head Screw M3x6 to assemble the top to the bottom at the front, above the horizontal bar
