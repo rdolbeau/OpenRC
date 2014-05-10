@@ -31,10 +31,10 @@
  * (4) Diam 2.0 x 32mm
  * (3) Diam 3.0 x 18mm (for the differentials)
  * (4) Diam 3.0 x 56mm (for the wishbones)
- * Optional: Diam 2.0 x 10mm for internal driveshafts (2 for each printed driveshafts)
+ * Optional: Diam 2.0 x 10mm for internal driveshafts (2 for each printed driveshafts, or see below for prebuilt metal shafts from Conrad)
 
 ### Ball Head Screws
- * (5 or 6) 5mm Ball Head Screws such as HSP 02038
+ * (5 or 6?) 5mm Ball Head Screws such as HSP 02038?
  
 ### Drivetrain
  * (4) Outer Driveshafts - CVD 1:10 118MM (See sources)
@@ -84,6 +84,6 @@ Standard 2 Channel Transmitter and Receiver (Radio System)
  * [HPI Racing TF-40 2.4ghz Radio System @ TowerHobbies.com](http://www3.towerhobbies.com/cgi-bin/wti0001p?&I=LXCEHR&P=7)
  * [Axial AX-3 2-Channel 2.4ghz Radio System @ TowerHobbies.com](http://www3.towerhobbies.com/cgi-bin/wti0001p?&I=LXBMCM&P=7)
  
-### CVD Shafts
- * [Conrad](http://www.conrad.com/ce/en/product/231121/)
-
+### Shafts
+ * CVD (between diff & wheels) [Conrad](http://www.conrad.com/ce/en/product/231121/)
+ * Drive shafts (between central and front/read diff, optional, can be printed) [Conrad] (http://www.conrad.com/ce/en/product/223477/)
