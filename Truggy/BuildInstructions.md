@@ -22,3 +22,8 @@
  * Use 2 Countersunk Head Screw M3x12 to assemble the horizontal bar at the bottom front, beware, the front wishbone and their pins must be put in at this point
  * Use 2 Pan Head Screw M3x16 a the top to assemble the second part of the housing, plus 2 Hexagon Nut M3. Note that you also need assemble the front shock tower at this point, and it has a front and a back so beware
  * Use a Countersunk Head Screw M3x6 to assemble the top to the bottom at the front, above the horizontal bar
+
+## Central differential
+ * Same principle than the front & rear differential, but without the shaft joint & input gear (both drive shafts connect to the differential directly). Same list of (non-printed) parts as well.
+ * You need to install the front drive shaft at this point (either a printed one with two 2 x 10 mm pin, or just bought one as listed in the BOM), along with putting the central differential in the housing
+ * The 4 Countersunk Head Screw M3x12 to assemble the second (top) part of the housing

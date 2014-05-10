@@ -31,7 +31,7 @@
  * (4) Diam 2.0 x 32mm
  * (3) Diam 3.0 x 18mm (for the differentials)
  * (4) Diam 3.0 x 56mm (for the wishbones)
- * Optional: Diam 2.0 x 10mm for internal driveshafts
+ * Optional: Diam 2.0 x 10mm for internal driveshafts (2 for each printed driveshafts)
 
 ### Ball Head Screws
  * (5 or 6) 5mm Ball Head Screws such as HSP 02038
