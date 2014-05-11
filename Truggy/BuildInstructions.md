@@ -15,6 +15,9 @@
  * the 4 6x12x4 bearings are used here for the steering system
  * 4 more Countersunk Head Screw M3x8 are required, two to add the upper part to the columns, and two more for the horizontal bar
 
+## Servo Holder
+ * You need 3 Countersunk Head Screw M3x8 to attach the front chassis plate to the Servo Holder. Note that the "Servo Holder for BMS-620MG Servo" should fit most standard size servo (it fits a for-testing-only Hitec HS-311).
+
 ## Front differential
  * There's a helpful document to assemble the differential itself under "Components/Differential/Documentation/OpenRC Differential Assembly.pdf" (and the video linked above). Each differential use 2 Countersunk Head Screw M3x8, 2 Countersunk Head Screw M3x16 and a Diam 3 x 18 mm pin and 2 10x15x4 bearings
  * First you need to put in the central drive shaft joint & input gear. The pair is assembled by a Pan Head Cap Screw M3x12, and rotates inside a pair of 10x15x4 bearings
